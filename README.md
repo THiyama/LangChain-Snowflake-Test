@@ -1,0 +1,2 @@
+# LangChain-Snowflake-Test
+2025年3月10日にLangChain×Snowflakeを試してみたときのログ
